@@ -1,0 +1,6 @@
+@es.juanalbertorado.accesoadatos.demodotnet.api_HostAddress = http://localhost:5019
+
+GET {{es.juanalbertorado.accesoadatos.demodotnet.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

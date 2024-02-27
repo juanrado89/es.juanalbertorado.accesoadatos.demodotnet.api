@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "es.juanalbertorado.accesoadatos.demodotnet.api", "es.juanalbertorado.accesoadatos.demodotnet.api\es.juanalbertorado.accesoadatos.demodotnet.api.csproj", "{835AAEBC-4635-4006-8F61-655B9AFAE79B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{835AAEBC-4635-4006-8F61-655B9AFAE79B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{835AAEBC-4635-4006-8F61-655B9AFAE79B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{835AAEBC-4635-4006-8F61-655B9AFAE79B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{835AAEBC-4635-4006-8F61-655B9AFAE79B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11F918E9-1146-420F-ABC7-0BD26F9A0616}
+	EndGlobalSection
+EndGlobal
